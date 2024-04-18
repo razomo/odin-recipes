@@ -1,0 +1,12 @@
+body {
+	background-color: rgb(255, 255, 193);
+	font-family: Verdana, Tahoma, sans-serif;
+	width: 75%;
+	padding-left: 30px;
+	color: rgb(51, 51, 51);
+}
+
+a {
+	font-size: 18px;
+	text-decoration: none;
+}
